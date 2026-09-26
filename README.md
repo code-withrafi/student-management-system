@@ -30,6 +30,26 @@ A desktop Student Management System built with Python, Tkinter, and MySQL as a c
     ├── hide.png
     └── students.png
 
+## Screenshots
+
+### Login Screen
+![Login](snaps/Login.png)
+
+### Dashboard
+![Dashboard](snaps/Dashboard.png)
+
+### Database Connection
+![Database Connection](snaps/DBconnection.png)
+
+### Add New Student
+![Add New Student](snaps/addnew.png)
+
+### Update Student
+![Update Student](snaps/Updatestudent.png)
+
+### Search Student
+![Search Student](snaps/Search.png)    
+
 ## Requirements
 
 - Python 3.10+
